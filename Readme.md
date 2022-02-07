@@ -1,5 +1,6 @@
 ## Windows 10 Printer Share Issue Solver
-
+This script is prepared for shared printer on Windows 10 Operating system users.
+Microsoft has been shared an update named KB5005565 which causes printing errors on shared printers in local area network.
 ## How it Works?
 The aim of the script is to print files from client PCs in Local Area Network(LAN). 
 The script listens to a specific folder and seeks for PDF files. If the PDF file exists in the folder, script prints it. 
